@@ -18,7 +18,7 @@ I’m a developer who enjoys learning and building cool projects.
 
 ## Projects
 - [Project 1](https://github.com/mdpraneel-ai/Crimea-Shadow-Garden/issues)
-- [Project 2](https://github.com/mdpraneel-ai)
+- [Project 2](https://github.com/mdpraneel-ai/CO-Gas-Monitoring-System)
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdpraneel-ai&show_icons=true&theme=dark)
