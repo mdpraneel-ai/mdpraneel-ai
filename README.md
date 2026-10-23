@@ -1,4 +1,28 @@
-## Hi there 👋
+#hello there im_praneel
+
+I’m a developer who enjoys learning and building cool projects.
+
+## About me
+- 💻 Interested in software development
+- 🌱 Learning new technologies
+- 🚀 Building projects and improving my skills
+- 📫 You can reach me through GitHub
+
+## Skills
+- Python
+- JavaScript
+- HTML/CSS
+- Git & GitHub
+- APIs
+- Linux
+
+## Projects
+- [Project 1](https://github.com/mdpraneel-ai)
+- [Project 2](https://github.com/mdpraneel-ai)
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdpraneel-ai&show_icons=true&theme=dark)
+
 
 <!--
 **mdpraneel-ai/mdpraneel-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
