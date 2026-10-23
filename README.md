@@ -17,7 +17,7 @@ I’m a developer who enjoys learning and building cool projects.
 - Linux
 
 ## Projects
-- [Project 1](https://github.com/mdpraneel-ai)
+- [Project 1](https://github.com/mdpraneel-ai/Crimea-Shadow-Garden/issues)
 - [Project 2](https://github.com/mdpraneel-ai)
 
 ## GitHub Stats
