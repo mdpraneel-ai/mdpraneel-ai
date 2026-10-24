@@ -2,19 +2,18 @@
 
 I’m a developer who enjoys learning and building cool projects.
 
-## About me
-- 💻 Interested in software development
-- 🌱 Learning new technologies
-- 🚀 Building projects and improving my skills
-- 📫 You can reach me through GitHub
+About Me
+🔭 Passionate about Data Engineering, Backend Development, and Blockchain
+🧠 Interested in DSA, Machine Learning, Open Source, and building scalable systems
+🌱 Always learning and experimenting with new technologies
+🚀 I enjoy solving real-world problems with code
+📍 Based in India
 
-## Skills
-- Python
-- JavaScript
-- HTML/CSS
-- Git & GitHub
-- APIs
-- Linux
+
+Languages
+Python
+Java
+C
 
 ## Projects
 - [Project 1](https://github.com/mdpraneel-ai/Crimea-Shadow-Garden/issues)
