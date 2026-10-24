@@ -22,7 +22,13 @@ C
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdpraneel-ai&show_icons=true&theme=dark)
 
-
+Interests
+DSA🔥
+Machine Learning
+Open Source
+Backend Development
+Blockchain
+Data Engineering
 <!--
 **mdpraneel-ai/mdpraneel-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
