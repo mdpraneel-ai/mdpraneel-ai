@@ -1,6 +1,12 @@
 #hello there im_praneel
 
 I’m a developer who enjoys learning and building cool projects.
+### Data Engineer | Backend Developer | Blockchain Builder
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Python+Developer;Data+Engineer;Backend+Engineer;Blockchain+Builder" alt="Typing SVG" />
+</p>
+
 
 About Me
 🔭 Passionate about Data Engineering, Backend Development, and Blockchain
