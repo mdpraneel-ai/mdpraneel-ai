@@ -56,20 +56,20 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdpraneel-ai&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mdpraneel-ai&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdpraneel-ai&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdpraneel-ai&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## Connect With Me
-- Email: [yourmail@example.com](mdpraneel@gmail.com)
+- Email: [Praneel](mdpraneel@gmail.com)
 - GitHub: [mdpraneel-ai](https://github.com/mdpraneel-ai)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/praneel-m-d-5a5701336?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-- Twitter: [Your Twitter](https://twitter.com/yourhandle)
+- LinkedIn: [Praneel M D](https://www.linkedin.com/in/praneel-m-d-5a5701336?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- Twitter: [im_prannel]
 
 > I debug with print statements and I’m not ashamed
 - 🔭 I’m currently working on ...
