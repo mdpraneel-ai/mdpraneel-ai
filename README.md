@@ -66,9 +66,9 @@
 ---
 
 ## Connect With Me
-- Email: [yourmail@example.com](mailto:yourmail@example.com)
+- Email: [yourmail@example.com](mdpraneel@gmail.com)
 - GitHub: [mdpraneel-ai](https://github.com/mdpraneel-ai)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile/)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/praneel-m-d-5a5701336?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 - Twitter: [Your Twitter](https://twitter.com/yourhandle)
 
 > I debug with print statements and I’m not ashamed
